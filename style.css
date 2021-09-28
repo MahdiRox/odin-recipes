@@ -1,1 +1,7 @@
-body {color: burlywood;background-color: black;text-align: center;}
+body {background-color: khaki;text-align: center;}
+h1 {color: lightblue;font-size: 70px;}
+h3 {color: lightseagreen;font-size: 30px;}
+body {
+    border: 2px solid;
+    border-color: white;
+}
