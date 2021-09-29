@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(253, 209, 151);
+    font-family:sans-serif
+}
+
+div {
+    text-align: center;
+} 
+
+.food {
+    background-color: cornflowerblue;
+    color: rgb(253,209,151);
+    font-size: 40px;
+}
+
+#tacos {
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+img {
+    height: auto;
+    width: 600px;
+}
+
