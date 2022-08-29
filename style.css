@@ -8,12 +8,12 @@ div{
 }
 
 .odin{
-    background-color: blue;
+    background-color: rgb(208, 208, 218);
     color: lightblue;
     font-size: 60px;
     font-family: serif;   
     margin:10%;
-    padding: 10px;
+    padding: 15px;
     }
     
 .list {
